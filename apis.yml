@@ -39,7 +39,6 @@ apis:
   - name: Cartes.io
     description: "Create maps and markers for anything"
     humanURL: https://github.com/M-Media-Group/Cartes.io/wiki/API
-    baseURL: https://github.com/M-Media-Group/Cartes.io/wiki/API
     tags:
       - Geocoding
     properties:
